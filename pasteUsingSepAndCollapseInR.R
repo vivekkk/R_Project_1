@@ -36,3 +36,4 @@ paste(x, y, sep="%%", collapse=",")
 # collapse arguments. The statement below will return
 # "a,w%%b,x%%c,y%%d,z"
 paste(x, y, sep=",", collapse="%%")
+testInheritedMethods(test)
